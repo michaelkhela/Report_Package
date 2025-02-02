@@ -1,11 +1,11 @@
-# Reports Package
+# Report_Package
 
 ## Overview
-The `Reports Package` automates the process of generating study visit reports using Python. Traditionally, this process was manual and time-consuming, requiring multiple days and people to verify and insert data. This package streamlines report creation by extracting data from REDCap fields (VABS, MSEL, and PLS), generating structured tables and descriptions, and inserting names and signatures automatically.
+The `Report_Package` automates the process of generating study visit reports using Python. Traditionally, this process was manual and time-consuming, requiring multiple days and people to verify and insert data. This package streamlines report creation by extracting data from REDCap fields (VABS, MSEL, and PLS), generating structured tables and descriptions, and inserting names and signatures automatically.
 
 ### Author
 **Michael Khela**  
-Email: [michael.khela@childrens.harvard.edu](mailto:michael.khela99@gmail.com)
+Email: [michael.khela99@gmail.com](mailto:michael.khela99@gmail.com)
 
 ### Supervisor
 **Carol Wilkinson**
@@ -60,5 +60,5 @@ python Run_Report_Automation.py
   3. Contact Michael Khela with a screenshot of the error.
 
 ## Contact
-For troubleshooting and support, contact **Michael Khela** at [michael.khela@childrens.harvard.edu](mailto:michael.khela99@gmail.com).
+For troubleshooting and support, contact **Michael Khela** at [michael.khela99@gmail.com](mailto:michael.khela99@gmail.com).
 
